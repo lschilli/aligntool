@@ -1,0 +1,4 @@
+#!/bin/bash
+TOOLDIR="${BASH_SOURCE[0]%/*}"
+export PYTHONPATH="$TOOLDIR/lib/python:$PYTHONPATH"
+exec "$TOOLDIR/src/aligntool.py" "$@"

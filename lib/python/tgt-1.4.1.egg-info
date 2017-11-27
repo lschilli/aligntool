@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: tgt
+Version: 1.4.1
+Summary: TextGridTools -- Read, write, and manipulate Praat TextGrid files
+Home-page: UNKNOWN
+Author: Hendrik Buschmeier
+Author-email: hbuschme@uni-bielefeld.de
+License: GNU General Public License 3
+Download-URL: http://github.com/hbuschme/TextGridTools/
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
